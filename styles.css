@@ -1,0 +1,18 @@
+html {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --color-primary: #ff0000;
+
+    --bg-primary: white;
+    --bg-secondary: #28272C;
+
+    --text-primary: #FFFFFF;
+    --text-secondary: #6A6A6A;
+}
